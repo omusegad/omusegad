@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Omuse Gad, a software developer from Kenya with more than five years of experience.
 - 👀 I'm interested in Software development and Data Engineering. I have worked with PHP, JavaScript, React and Python. 
-- 🌱 I'm currently learning DevOps and data engineering 
 - 💞️ I'm seeking for jobs and opportunities that will foster my development, teamwork, and lifelong learning.
 - 📫 Drop me an email at omusegad@gmail.com.
 
