@@ -9,7 +9,7 @@
 <li>I am experienced in managing server-side authentication, including Firebase Admin and JWT token management.</li>
 <li>I’ve integrated Docker and Docker Compose to streamline development environments, improving consistency and collaboration across teams.</li>
 <li>My recent dive into DevOps has allowed me to work with containerization, CI/CD pipelines, and cloud infrastructure, bringing my projects closer to production-readiness and automation.</li>
-</ul>ul>
+</ul>
 <h3>👀 What I'm Interested In: </h3>
 <p>I'm always looking for opportunities to work on projects that leverage my skills in backend development, API design, and DevOps. I'm particularly interested in roles that foster teamwork, innovation, and lifelong learning—whether it’s developing new features, optimizing performance, or improving deployment pipelines.</p>
 
@@ -25,9 +25,9 @@
 
 <h3>💼 Recent Projects:</h3>
 <ul>
-<li> <a href="https://kerusolar.com" target=_blank">Keru Solar: </a> A clean and responsive website for an energy company, built with a focus on performance and SEO.</li>
-<li><a href="https://simaniafrica.com" target=_blank">Simani Africa:  </a> Corporate website for training solution company.</li>
-<li><a href="https://gichukikahome.com" target=_blank">gichukikahome.com :  </a> I provide support, on feature development, hosting  and security</li>
+<li> <a href="https://kerusolar.com" target="_blank">Keru Solar: </a> A clean and responsive website for an energy company, built with a focus on performance and SEO.</li>
+<li><a href="https://simaniafrica.com" target="_blank">Simani Africa:  </a> Corporate website for training solution company.</li>
+<li><a href="https://gichukikahome.com" target="_blank">gichukikahome.com :  </a> I provide support, on feature development, hosting  and security</li>
 </ul>
 <h3>📫 How to Reach Me:</h3>
-<P>I'm currently open to freelance or full-time opportunities in software development and DevOps. Feel free to reach out to me at omusegad@gmail.com—I'd love to discuss how we can work together to build something amazing.</P>
+<P>I'm currently open to freelance or full-time opportunities in software development and DevOps. Feel free to reach out to me at <a href="mailto:omusegad@gmail.com">omusegad@gmail.com</a> —I'd love to discuss how we can work together to build something amazing.</P>
