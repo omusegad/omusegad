@@ -23,7 +23,7 @@
 <li>Tools: Git, Tailwind CSS, Webpack, ESLint, Prettier</li>
 </ul>
 
-<h3>💼 Recent Projects:</h3>
+<h3>💼 Awesome Happy Clients:</h3>
 <ul>
 <li> <a href="https://kerusolar.com" target="_blank">Keru Solar: </a> A clean and responsive website for an energy company, built with a focus on performance and SEO.</li>
 <li><a href="https://simaniafrica.com" target="_blank">Simani Africa:  </a> Corporate website for training solution company.</li>
