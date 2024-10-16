@@ -1,28 +1,33 @@
 <h1>👋 Hi, I'm Omuse Gad </h1>
-I'm a software developer from Kenya with over seven years of experience building scalable and dynamic web applications. I have a strong focus on backend development, particularly in object-oriented PHP and Python, and I've worked with popular frameworks such as Laravel, CodeIgniter, Fastapi and Django. My development stack also includes React for frontend work and comprehensive experience in DevOps.
+<P>I'm a software developer from Kenya with over seven years of experience building scalable and dynamic web applications. I have a strong focus on backend development, particularly in object-oriented PHP and Python, and I've worked with popular frameworks such as Laravel, CodeIgniter, Fastapi and Django. My development stack also includes React for frontend work and comprehensive experience in DevOps.</p>
 
 <h3>🌱 What I Do: </h3>
-I specialize in building secure and high-performance APIs using technologies like Next.js, FastAPI, and Django Ninja.
-I work extensively with SQL databases, particularly MySQL, to manage complex data architectures.
-I've developed reusable and modular code structures, particularly in projects that require heavy API interaction, ensuring both performance and maintainability.
-I am experienced in managing server-side authentication, including Firebase Admin and JWT token management.
-I’ve integrated Docker and Docker Compose to streamline development environments, improving consistency and collaboration across teams.
-My recent dive into DevOps has allowed me to work with containerization, CI/CD pipelines, and cloud infrastructure, bringing my projects closer to production-readiness and automation.
-
+<ul>
+<li>I specialize in building secure and high-performance APIs using technologies like Next.js, FastAPI, and Django Ninja.</li>
+<li>I work extensively with SQL databases, particularly MySQL, to manage complex data architectures.</li>
+<li>I've developed reusable and modular code structures, particularly in projects that require heavy API interaction, ensuring both performance and maintainability.</li>
+<li>I am experienced in managing server-side authentication, including Firebase Admin and JWT token management.</li>
+<li>I’ve integrated Docker and Docker Compose to streamline development environments, improving consistency and collaboration across teams.</li>
+<li>My recent dive into DevOps has allowed me to work with containerization, CI/CD pipelines, and cloud infrastructure, bringing my projects closer to production-readiness and automation.</li>
+</ul>ul>
 <h3>👀 What I'm Interested In: </h3>
-I'm always looking for opportunities to work on projects that leverage my skills in backend development, API design, and DevOps. I'm particularly interested in roles that foster teamwork, innovation, and lifelong learning—whether it’s developing new features, optimizing performance, or improving deployment pipelines.
+<p>I'm always looking for opportunities to work on projects that leverage my skills in backend development, API design, and DevOps. I'm particularly interested in roles that foster teamwork, innovation, and lifelong learning—whether it’s developing new features, optimizing performance, or improving deployment pipelines.</p>
 
 <h3>💻 Technologies I Work With: </h3>
-Languages: Python, PHP, JavaScript (React), TypeScript
-Frameworks: Laravel, CodeIgniter, Django, FastAPI, Next.js
-DevOps: Docker, Docker Compose, CI/CD, GitHub Actions
-Database: MySQL, PostgreSQL
-Cloud: Firebase, GCP, DigitalOcean
-Tools: Git, Tailwind CSS, Webpack, ESLint, Prettier
+<ul>
+<li>Languages: Python, PHP, JavaScript (React), TypeScript</li>
+<li>Frameworks: Laravel, CodeIgniter, Django, FastAPI, Next.js</li>
+<li>DevOps: Docker, Docker Compose, CI/CD, GitHub Actions</li>
+<li>Database: MySQL, PostgreSQL</li>
+<li>Cloud: Firebase, GCP, DigitalOcean</li>
+<li>Tools: Git, Tailwind CSS, Webpack, ESLint, Prettier</li>
+</ul>
 
 <h3>💼 Recent Projects:</h3>
-Keru Solar: A clean and responsive website for an energy company, built with a focus on performance and SEO.
-Simani Africa: Corporate website for training solution company.
-gichukikahome.com : I provide support, on feature development, hosting  and security
+<ul>
+<li> <a href="https://kerusolar.com" target=_blank">Keru Solar: </a> A clean and responsive website for an energy company, built with a focus on performance and SEO.</li>
+<li><a href="https://simaniafrica.com" target=_blank">Simani Africa:  </a> Corporate website for training solution company.</li>
+<li><a href="https://gichukikahome.com" target=_blank">gichukikahome.com :  </a> I provide support, on feature development, hosting  and security</li>
+</ul>
 <h3>📫 How to Reach Me:</h3>
-I'm currently open to freelance or full-time opportunities in software development and DevOps. Feel free to reach out to me at omusegad@gmail.com—I'd love to discuss how we can work together to build something amazing.
+<P>I'm currently open to freelance or full-time opportunities in software development and DevOps. Feel free to reach out to me at omusegad@gmail.com—I'd love to discuss how we can work together to build something amazing.</P>
