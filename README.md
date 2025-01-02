@@ -29,6 +29,10 @@
 <li> <a href="https://kerusolar.com" target="_blank">Keru Solar: </a> A clean and responsive website for an energy company, built with a focus on performance and SEO.</li>
 <li><a href="https://simaniafrica.com" target="_blank">Simani Africa:  </a> Corporate website for training solution company.</li>
 <li><a href="https://gichukikahome.com" target="_blank">gichukikahome.com :  </a> I provide support, on feature development, hosting  and security</li>
+<li><a href="https://startechsolutions.co.ke" target="_blank">startechsolutions.co.ke:  </a> </li>
+
+
+  
 </ul>
 <h3>📫 How to Reach Me:</h3>
 <P>I'm currently open to freelance or full-time opportunities in software development and DevOps. Feel free to reach out to me at <a href="mailto:omusegad@gmail.com">omusegad@gmail.com</a> —I'd love to discuss how we can work together to build something amazing.</P>
